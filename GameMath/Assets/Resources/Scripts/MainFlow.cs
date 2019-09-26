@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainFlow : MonoBehaviour {
 
-    public enum Exercise {PointCloud, PiApproximation, Centroid, AcuteOrObtuse, WhichSideOfTheLine }
+    public enum Exercise {PointCloud, PiApproximation, Centroid, AcuteOrObtuse, WhichSideOfTheLine, CameraMovement2D, LerpingOverTime, Sphere, Line, SineWave,  Rotation1, Rotation2, Rotation3, DelayedAutoAim, BasicPerlinNoise, AdvancedPerlinNoise }
 
     public Exercise exercise;
 	
