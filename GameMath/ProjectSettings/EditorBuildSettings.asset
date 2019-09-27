@@ -27,6 +27,9 @@ EditorBuildSettings:
     path: Assets/Resources/Scenes/AcuteOrObtuse.unity
     guid: d5c2df088fc28db4e8ffa7e279868fc8
   - enabled: 1
+    path: Assets/Resources/Scenes/GridOfSquares.unity
+    guid: d0002aae30bacc54895968ef7175906a
+  - enabled: 1
     path: Assets/Resources/Scenes/DelayedAutoAim.unity
     guid: d81d55d58c3c5b943b5767783e9a62dd
   - enabled: 1
