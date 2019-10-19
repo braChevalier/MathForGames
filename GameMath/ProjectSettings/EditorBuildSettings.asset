@@ -24,9 +24,6 @@ EditorBuildSettings:
     path: Assets/Resources/Scenes/Centroid.unity
     guid: dc5480ebcbe05a0439968f97321401ef
   - enabled: 1
-    path: Assets/Resources/Scenes/Rotation2.unity
-    guid: 33b2ecb39baa1e943adbf03d6cadaba2
-  - enabled: 1
     path: Assets/Resources/Scenes/AcuteOrObtuse.unity
     guid: d5c2df088fc28db4e8ffa7e279868fc8
   - enabled: 1
@@ -42,7 +39,7 @@ EditorBuildSettings:
     path: Assets/Resources/Scenes/DelayedAutoAim.unity
     guid: d81d55d58c3c5b943b5767783e9a62dd
   - enabled: 1
-    path: Assets/Resources/Scenes/Rotation3.unity
+    path: Assets/Resources/Scenes/Rotation2.unity
     guid: 16fc5b68b2621d942a7b4362b7e1850e
   - enabled: 1
     path: Assets/Resources/Scenes/Rotation1.unity
